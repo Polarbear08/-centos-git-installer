@@ -1,4 +1,4 @@
-# git-installer
+# centos-git-installer
 
 ## 対応OS
 * CentOS7.2+ ([centos:7.2](https://hub.docker.com/layers/centos/library/centos/7.2.1511/images/sha256-9aec5c5fe4ba9cf7a8d2a50713dd197c3b0cbd5f5fcd03babe4c1d65c455dabf)以降)
