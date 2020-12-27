@@ -8,6 +8,7 @@
 任意のディレクトリに `installer.sh` を保存し、ルート権限で以下を実行してください。
 `/usr/local/bin` に指定バージョンのGitがインストールされます。
 ```
+# chmod +x ./installer.sh
 # ./installer.sh <MAJOR>.<MINOR>.<PATCH>
 ```
 
