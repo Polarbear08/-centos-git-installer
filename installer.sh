@@ -47,4 +47,4 @@ make prefix=/usr/local all
 make prefix=/usr/local install
 
 # completion notice
-git version > /dev/null && echo "$(git version) was successfully installed"
+git version > /dev/null && echo "$(/usr/local/bin/git version) was successfully installed"
